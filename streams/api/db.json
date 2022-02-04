@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great",
+      "id": 1
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "this change aaaaa",
+      "id": 6
+    },
+    {
+      "title": "me streaming component reuse",
+      "description": "sliiim",
+      "id": 7
+    }
+  ]
+}
